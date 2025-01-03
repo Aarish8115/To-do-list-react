@@ -1,6 +1,5 @@
 import { useState } from "react";
 import Navbar from "./components/Navbar";
-import Hr from "./components/Hr";
 import Todo from "./components/todo";
 
 function App() {
